@@ -13,10 +13,10 @@ This project aims to explore various techniques for predicting survival rates in
 - **CatBoost:** A gradient boosting library that handles categorical variables automatically and efficiently.
 
 ## Results
-- Decision Trees: 0.67703
-- Random Forest: 0.75358
 - XGBoost: 0.76076
+- Random Forest: 0.75358
 - CatBoost: 0.75119
+- Decision Trees: 0.67703
 
 ## Next Steps
 Future steps involve experimenting with different approaches to feature engineering. Suggestions for further improvements include:
